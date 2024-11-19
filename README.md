@@ -1,4 +1,7 @@
 # Summer 2025 Tech Internships by Pitt CSC & Simplify
+<a href="https://github.com/akaday/Summer2025-Internships/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=akaday/Summer2025-Internships" />
+</a>
 We're back! Use this repo to share and keep track of software, tech, CS, PM, quant internships for **Summer 2025**. The list is maintained collaboratively by the [Pitt Computer Science Club](https://pittcsc.org/) and [Simplify](https://simplify.jobs/)!
 
 :warning: Please note that this repository is exclusively for internships/co-ops in the United States, Canada, or Remote positions :earth_americas:
